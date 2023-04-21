@@ -1,4 +1,4 @@
 ### Strommix
-Ein Projekt mit Hilfe von heroku publizieren.
+Ein Projekt mit Hilfe von back4app publizieren.
 
-von -Ihr Name-
+von Timo Blumer
